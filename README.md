@@ -1,3 +1,4 @@
+![logo](https://github.com/dev-deepak2/dev-deepak2/blob/main/209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9.gif)
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sahu</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right alt="coding" width="400 src="DALL·E 2024-10-27 13.59.43 - Back view of a coder sitting at a computer in a cyberpunk-inspired setting. The coder faces a high-tech setup with multiple glowing monitors, displayi
